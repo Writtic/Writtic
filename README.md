@@ -1,7 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWrittic%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/writtic/my-stack)
 
-![Github Stats](https://github-profile-trophy.vercel.app/?username=writtic&theme=discord&show_icons=true&count_private=true&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=writtic&show_icons=true&count_private=true&hide_border=true&theme=onedark)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=writtic&show_icons=true&count_private=true&hide_border=true&theme=onedark)
+
+
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/writtic)](https://www.facebook.com/writtic)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/johan_park_)](https://www.instagram.com/johan_park_)
