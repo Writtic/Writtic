@@ -1,13 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWrittic%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/writtic/my-stack)
-
-![Metrics](https://github.com/Writtic/Writtic/blob/master/github-metrics.svg)
-
-
-
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/writtic)](https://www.facebook.com/writtic)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/johan_park_)](https://www.instagram.com/johan_park_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-park)](https://www.linkedin.com/in/johan-park)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/writtic/my-stack)
+<!-- ![Metrics](https://github.com/Writtic/Writtic/blob/master/github-metrics.svg) -->
+<img src="/github-metrics.svg" alt="Metrics">
 
 <!--
 **Writtic/Writtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
