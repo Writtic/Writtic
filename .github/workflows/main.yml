@@ -16,7 +16,7 @@ jobs:
           template: markdown
           filename: metrics.markdown.md
           markdown: >-
-            raw.githubusercontent.com/Writtic/metrics.markdown.template.md
+            https://raw.githubusercontent.com/Writtic/Writtic/main/metrics.markdown.template.md
           config_output: markdown
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
