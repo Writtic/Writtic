@@ -13,19 +13,10 @@ jobs:
           
           # Options
           user: Writtic
-          template: markdown
-          filename: metrics.markdown.md
-          markdown: >-
-            https://raw.githubusercontent.com/Writtic/Writtic/main/metrics.markdown.template.md
-          config_output: markdown
+          template: terminal
+          filename: github-metrics.svg
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_activity: yes
-          plugin_activity_limit: 7
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 4
+          plugin_traffic: yes
