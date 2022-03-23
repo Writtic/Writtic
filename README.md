@@ -1,5 +1,3 @@
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/writtic)](https://www.facebook.com/writtic)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/johan_park_)](https://www.instagram.com/johan_park_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-park)](https://www.linkedin.com/in/johan-park)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/writtic/my-stack)
 <!-- ![Metrics](https://github.com/Writtic/Writtic/blob/master/github-metrics.svg) -->
