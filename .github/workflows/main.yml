@@ -9,6 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+           # Your GitHub token ("public_repo" is required to allow this action to update the metrics SVG image)
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
