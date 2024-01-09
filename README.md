@@ -2,7 +2,7 @@
 [![Notion](https://img.shields.io/badge/-Resume-white?style=round-square&logo=notion&logoColor=black&link=https://writtic.me)](https://writtic.me)
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/writtic/my-stack)
 <!-- ![Metrics](https://github.com/Writtic/Writtic/blob/master/github-metrics.svg) -->
-<img src="/github-metrics.svg" alt="Metrics">
+<!-- <img src="/github-metrics.svg" alt="Metrics"> -->
 
 <!--
 **Writtic/Writtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
